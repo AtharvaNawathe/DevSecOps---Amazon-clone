@@ -1,1 +1,1 @@
-# DevSecOps---Amazon-clone
+# Amazon-FE
