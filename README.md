@@ -44,3 +44,8 @@ Docker installed
 
 Go through this document for running the project on your own system
 https://mrcloudbook.com/amazon-app-deployment-a-devsecops-approach-with-terraform-and-jenkins-ci-cd/
+
+![Screenshot from 2024-06-27 10-36-22](https://github.com/AtharvaNawathe/DevSecOps---Amazon-clone/assets/63600324/0b81d378-6c8b-4fb9-ae4a-0556f42b1cbd)
+![Screenshot from 2024-06-27 10-36-36](https://github.com/AtharvaNawathe/DevSecOps---Amazon-clone/assets/63600324/22bdf85b-10ae-4b9e-aa04-797d64d792c5)
+
+
